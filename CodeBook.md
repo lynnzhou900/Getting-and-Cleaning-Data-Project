@@ -1,4 +1,5 @@
-This codebook will introduce the collecting and cleaning steps of the target data set from raw data to tidy data. The codebook contains the description of the data variables, and the steps of collecting and cleaning processes.
+This codebook will introduce the collecting and cleaning steps of the target data set from raw data to tidy data. 
+The codebook contains the description of the data variables, and the steps of collecting and cleaning processes.
 
 Data source
 -------
